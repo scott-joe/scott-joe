@@ -1,9 +1,4 @@
-- Make it simple
-- Make it work
-- Make it useful
-- Make it beautiful
-
----
+> Make it simple. Make it work. Make it useful. Make it beautiful
 
 ### Working On 🛠
 - [Foam](https://github.com/foambubble/foam)
