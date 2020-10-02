@@ -1,7 +1,8 @@
-> Make it simple. Make it work. Make it useful. Make it beautiful
+> 1. Make it simple. 2. Make it work. 3. Make it useful. 4. Make it beautiful
 
 ### Working On 🛠
 - [Foam](https://github.com/foambubble/foam)
+- My own Foam [workspace](https://github.com/scott-joe/foam--workspace) and [bottles](https://github.com/scott-joe/foam--bottle--personal) architecture
 
 ### Learning 🌱
 - ♻️ Redux Saga
