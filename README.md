@@ -5,16 +5,7 @@
 - My own Foam [workspace](https://github.com/scott-joe/foam--workspace) and [bottles](https://github.com/scott-joe/foam--bottle--personal) architecture
 
 ### Learning 🌱
-- ♻️ Redux Saga
-- 🐙 React Test Library
-- 🌝 Lua
-- 📄 Pandoc
+- ♻️ Redux Saga, 🐙 React Test Library, 🌝 Lua, 📄 Pandoc
 
 ### Misc
-<!-- - 💬 Ask me about ... -->
-- 🗣 Pronouns: he/him/his
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/scottjoewilliams/)
-  - [Twitter](https://twitter.com/scottjoe_)
-  - [Email]()
-<!-- - ⚡ Fun fact: ... -->
+- 🗣 Pronouns: he/him/his, 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/scottjoewilliams/), [Twitter](https://twitter.com/scottjoe_)
